@@ -7,3 +7,12 @@ D:\CSharp\SqlInputApp\SqlInputApp\obj\Debug\SqlInputApp.Properties.Resources.res
 D:\CSharp\SqlInputApp\SqlInputApp\obj\Debug\SqlInputApp.csproj.GenerateResource.cache
 D:\CSharp\SqlInputApp\SqlInputApp\obj\Debug\SqlInputApp.exe
 D:\CSharp\SqlInputApp\SqlInputApp\obj\Debug\SqlInputApp.pdb
+D:\CSharp\ImageAndBytes\SqlInputApp\bin\Debug\SqlInputApp.exe.config
+D:\CSharp\ImageAndBytes\SqlInputApp\bin\Debug\SqlInputApp.exe
+D:\CSharp\ImageAndBytes\SqlInputApp\bin\Debug\SqlInputApp.pdb
+D:\CSharp\ImageAndBytes\SqlInputApp\obj\Debug\SqlInputApp.csprojAssemblyReference.cache
+D:\CSharp\ImageAndBytes\SqlInputApp\obj\Debug\SqlInputApp.Form1.resources
+D:\CSharp\ImageAndBytes\SqlInputApp\obj\Debug\SqlInputApp.Properties.Resources.resources
+D:\CSharp\ImageAndBytes\SqlInputApp\obj\Debug\SqlInputApp.csproj.GenerateResource.cache
+D:\CSharp\ImageAndBytes\SqlInputApp\obj\Debug\SqlInputApp.exe
+D:\CSharp\ImageAndBytes\SqlInputApp\obj\Debug\SqlInputApp.pdb
