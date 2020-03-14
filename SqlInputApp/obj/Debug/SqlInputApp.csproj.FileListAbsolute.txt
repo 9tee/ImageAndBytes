@@ -1,0 +1,9 @@
+D:\CSharp\SqlInputApp\SqlInputApp\bin\Debug\SqlInputApp.exe.config
+D:\CSharp\SqlInputApp\SqlInputApp\bin\Debug\SqlInputApp.exe
+D:\CSharp\SqlInputApp\SqlInputApp\bin\Debug\SqlInputApp.pdb
+D:\CSharp\SqlInputApp\SqlInputApp\obj\Debug\SqlInputApp.csprojAssemblyReference.cache
+D:\CSharp\SqlInputApp\SqlInputApp\obj\Debug\SqlInputApp.Form1.resources
+D:\CSharp\SqlInputApp\SqlInputApp\obj\Debug\SqlInputApp.Properties.Resources.resources
+D:\CSharp\SqlInputApp\SqlInputApp\obj\Debug\SqlInputApp.csproj.GenerateResource.cache
+D:\CSharp\SqlInputApp\SqlInputApp\obj\Debug\SqlInputApp.exe
+D:\CSharp\SqlInputApp\SqlInputApp\obj\Debug\SqlInputApp.pdb
